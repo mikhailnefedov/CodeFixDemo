@@ -8,7 +8,7 @@ using Xunit;
 
 namespace CodeFixDemo.Tests;
 
-public class IsNullOrEmptyAnalyzerTests1
+public class IsNullOrEmptyAnalyzerTests
 {
     [Fact]
     public async Task Test()
